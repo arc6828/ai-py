@@ -5,7 +5,7 @@
 pip install notebook pandas ipywidgets openpyxl matplotlib
 ```
 
-## classification
+## classification & clustering
 ```
-pip install scikit-learn xgboost
+pip install scikit-learn xgboost seaborn
 ```
