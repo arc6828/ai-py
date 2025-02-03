@@ -9,3 +9,8 @@ pip install notebook pandas ipywidgets openpyxl matplotlib
 ```
 pip install scikit-learn xgboost seaborn
 ```
+
+## tensorflow
+```
+pip install tensorflow
+```
